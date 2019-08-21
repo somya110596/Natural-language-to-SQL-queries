@@ -12,7 +12,7 @@ nlpsql.secret_key = 'nlpsql key'
 
 mysql = MySQL(nlpsql)
 
-#database Configuration
+#Database Configuration
 nlpsql.config['MYSQL_DATABASE_USER'] = 'root'
 nlpsql.config['MYSQL_DATABASE_PASSWORD'] = 'root'
 nlpsql.config['MYSQL_DATABASE_DB'] = 'nlpproj'
