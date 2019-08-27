@@ -1,5 +1,5 @@
 # Natural-language-to-SQL-queries
-Converting natural language to SQL queries!
+Converting natural language to SQL queries.
 
 Natural language query system for end users The system gives accurate results for certain class of queries including relational queries, queries involving simple join conditions etc., using mappings, tokenizing and retrieving information from the English-like queries.
 
